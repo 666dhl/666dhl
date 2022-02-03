@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**666dhl/666dhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hi, I’m Dong, a master student of Mechanical Engineering  but transform in computer science.
 👀 I’m interested in C++, which finish some Socket Programming about how to build a high perfromance server.
 🌱 I’m currently want to learning some new tech like MQ.
